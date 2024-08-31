@@ -35,7 +35,7 @@
     "style-loader": "^0.8.3",
     "toxiclibsjs": "^0.2.7",
     "url-loader": "^0.5.5",
-    "webpack": "^1.5.3",
-    "webpack-dev-server": "^1.7.0"
+    "webpack": "^5.94.0",
+    "webpack-dev-server": "^5.0.4"
   }
 }
